@@ -11,3 +11,15 @@ to do it, but because I want to learn CSS principles.
 - add some content
 - play around
 - repeat
+
+# Development
+
+It is a static site. Whatever local http server will work. Here is what I did:
+
+`npm i -g http-server`
+
+`http-server`
+
+Then visit: [http://localhost:8080]()
+
+boom.
